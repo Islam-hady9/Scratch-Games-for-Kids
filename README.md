@@ -23,3 +23,7 @@ Few video games can claim to be as longstanding and revolutionary as Pong. The A
 ## [Game 5. Flappy Bird Scratch Game](https://www.create-learn.us/blog/how-to-make-flappy-bird-in-scratch/)
 
 In early 2014, the mobile game Flappy Bird took the world by storm. Part of the game’s appeal was its basic mechanics and high level of difficulty. In the game, a player controls a falling bird to flap its wings and fly upwards as you attempt to maneuver yourself between oncoming obstacles. Create & Learn has made an online tutorial on how to build your own version of Flappy Bird. One of the most important concepts covered in this tutorial is how to use if-then-else statements to get your bird to fly upwards whenever the space key is pressed. This project is also taught in our fun, live online Scratch Ninja series of classes designed by experts from MIT, Stanford, and Google.
+
+## [Game 6. Snake Game](https://www.create-learn.us/blog/snake-scratch-tutorial/)
+
+Before the days of smartphones and touchscreens, Snake ruled the world of mobile gaming. In the game players use arrow keys to collect food that makes their snake grow. This game is a fantastic introduction to working with cloning blocks, which are used in many Scratch games. These blocks make copies of a character so that the programmer does not have to individually code a repeated sprite.
