@@ -27,3 +27,7 @@ In early 2014, the mobile game Flappy Bird took the world by storm. Part of the 
 ## [Game 6. Snake Game](https://www.create-learn.us/blog/snake-scratch-tutorial/)
 
 Before the days of smartphones and touchscreens, Snake ruled the world of mobile gaming. In the game players use arrow keys to collect food that makes their snake grow. This game is a fantastic introduction to working with cloning blocks, which are used in many Scratch games. These blocks make copies of a character so that the programmer does not have to individually code a repeated sprite.
+
+## [Game 7. Geometry Dash Scratch Game](https://www.create-learn.us/blog/how-to-make-a-geometry-dash-game-on-scratch/)
+
+This deceivingly simple game involves a square moving down a path and jumping over oncoming spikes. If the player’s square hits any of the spikes, then you can program a Game Over screen to appear. Students are encouraged to create and draw their own sprites for this project. Let your student get creative with their shape designs; this is a great opportunity to gain experience with drawing sprites in the Scratch interface.
